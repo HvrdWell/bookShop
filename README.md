@@ -2,11 +2,11 @@
 
 Complete demo project using spring-boot-starter-web, junit, slf4j & logback.
 
-##Environment variables:
+## Environment variables:
 
 - `PORT`=8080
 
-##Commands
+## Commands
 
 curl -X GET 'http://localhost:8080/'
 
