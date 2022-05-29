@@ -90,7 +90,7 @@ public class MessageController {
         }
     }
 
-    @PostMapping(path = "/account/balance", consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
+    @PutMapping(path = "/account/balance", consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity<Account> messageTopUpBalance(@RequestBody Account account){
         root.getAccount().topUpBalance(account.getMoney());
         logger.debug("Balance was top up");
