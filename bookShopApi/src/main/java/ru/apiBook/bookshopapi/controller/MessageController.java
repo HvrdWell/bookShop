@@ -68,6 +68,7 @@ public class MessageController {
             logger.debug("/addNewBook");
             logger.debug("Book was added " + book);
             parser.toJson(root);
+            root.setBooksWithoutAmount0();
             return new ResponseEntity<>(root.getBooks(), HttpStatus.OK);
         }
         else {
@@ -82,6 +83,7 @@ public class MessageController {
             logger.debug("/deleteBook");
             logger.debug("book " + book);
             parser.toJson(root);
+            root.setBooksWithoutAmount0();
             return new ResponseEntity<>(root.getBooks(), HttpStatus.OK);
         }
         else {
