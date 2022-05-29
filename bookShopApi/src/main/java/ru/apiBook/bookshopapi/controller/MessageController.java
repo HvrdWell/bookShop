@@ -94,12 +94,16 @@ public class MessageController {
 
     @PutMapping(path = "/account/balance", consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity<Account> messageTopUpBalance(@RequestBody Account account){
-        root.getAccount().topUpBalance(account.getMoney());
-        logger.debug("Balance was top up");
-        logger.debug("Money {}. Account {}.", account.getMoney(), root.getAccount());
-        parser.toJson(root);
-        return new ResponseEntity<>(root.getAccount(), HttpStatus.OK);
+        if(root.getAccount().topUpBalance(account.getMoney())){
+            logger.debug("Balance was top up");
+            logger.debug("Money {}. Account {}.", account.getMoney(), root.getAccount());
+            parser.toJson(root);
+            return new ResponseEntity<>(root.getAccount(), HttpStatus.OK);
+        }
+        logger.debug("Incorrect data");
+        return new ResponseEntity<>(HttpStatus.BAD_REQUEST);
     }
+
 
     private ResponseEntity<Account> marketDeal(Account account, Deal deal){
         if(account.getPurchaseHistory() == null && account.getMoney() >= root.getBookByIdRoot(deal.getId()).getPrice() * deal.getAmount() && root.getBookByIdRoot(deal.getId()).getAmount() >= deal.getAmount() && root.getBookByIdRoot(deal.getId()) != null){
