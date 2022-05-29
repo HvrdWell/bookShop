@@ -6,6 +6,11 @@ Complete demo project using spring-boot-starter-web, junit, slf4j & logback.
 
 - `PORT`=8080
 
+## Files in project:
+
+log.json - file with logs
+data.json - file with data about users and books
+
 ## Commands
 
 curl -X GET 'http://localhost:8080/'
@@ -19,3 +24,5 @@ curl -X GET 'http://localhost:8080/account/balance' -H 'Content-Type: applicatio
 curl -X POST 'http://localhost:8080/market/deal' \
 -H 'Content-Type: application/json' \
 -d '{"id": 0, "amount": 2}'
+
+###### End thx
