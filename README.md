@@ -1,1 +1,21 @@
-# bookShop
+# BookShop backend
+
+Complete demo project using spring-boot-starter-web, junit, slf4j & logback.
+
+##Environment variables:
+
+- `PORT`=8080
+
+##Commands
+
+curl -X GET 'http://localhost:8080/'
+
+curl -X GET 'http://localhost:8080/allbooks'
+
+curl -X GET 'http://localhost:8080/addNewBook' 
+
+curl -X GET 'http://localhost:8080/account/balance' -H 'Content-Type: application/json'
+
+curl -X POST 'http://localhost:8080/market/deal' \
+-H 'Content-Type: application/json' \
+-d '{"id": 0, "amount": 2}'
