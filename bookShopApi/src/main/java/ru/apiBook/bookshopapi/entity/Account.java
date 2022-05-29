@@ -44,8 +44,12 @@ public class Account {
         return null;
     }
 
-    public void topUpBalance(double money){
-        this.money += money;
+    public boolean topUpBalance(double money){
+        if(money > 0){
+            this.money += money;
+            return true;
+        }
+        return false;
     }
 
 }
