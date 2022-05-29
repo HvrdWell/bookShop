@@ -1,0 +1,316 @@
+14:39:15.892 [main] INFO  r.a.b.BookShopApiApplication - Starting BookShopApiApplication using Java 18.0.1.1 on 192.168.1.9 with PID 3151 (/Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi/build/classes/java/main started by geka231 in /Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi)
+14:39:15.893 [main] INFO  r.a.b.BookShopApiApplication - No active profile set, falling back to 1 default profile: "default"
+14:39:16.227 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+14:39:16.246 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+14:39:16.246 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+14:39:16.246 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+14:39:16.353 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+14:39:16.353 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 440 ms
+14:39:16.390 [main] INFO  r.a.b.controller.MessageController - Info Message Logged !!!
+14:39:16.510 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+14:39:16.516 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+14:39:16.521 [main] INFO  r.a.b.BookShopApiApplication - Started BookShopApiApplication in 0.745 seconds (JVM running for 0.97)
+14:50:21.263 [main] INFO  r.a.b.BookShopApiApplication - Starting BookShopApiApplication using Java 18.0.1.1 on 192.168.1.9 with PID 3217 (/Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi/build/classes/java/main started by geka231 in /Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi)
+14:50:21.264 [main] INFO  r.a.b.BookShopApiApplication - No active profile set, falling back to 1 default profile: "default"
+14:50:21.579 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+14:50:21.585 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+14:50:21.585 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+14:50:21.585 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+14:50:21.617 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+14:50:21.617 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 335 ms
+14:50:21.645 [main] INFO  r.a.b.controller.MessageController - Info Message Logged !!!
+14:50:21.738 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+14:50:21.744 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+14:50:21.748 [main] INFO  r.a.b.BookShopApiApplication - Started BookShopApiApplication in 0.607 seconds (JVM running for 0.832)
+14:50:34.054 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:50:34.055 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+14:50:34.055 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+14:50:34.067 [http-nio-8080-exec-1] INFO  r.a.b.controller.MessageController - Default Page
+14:50:37.970 [http-nio-8080-exec-2] INFO  r.a.b.controller.MessageController - Default Page
+14:51:55.121 [http-nio-8080-exec-1] INFO  r.a.b.controller.MessageController - Default Page
+14:52:54.857 [http-nio-8080-exec-3] ERROR r.a.b.controller.MessageController - Not enough money/books or incorrect data
+14:55:37.061 [main] INFO  r.a.b.BookShopApiApplication - Starting BookShopApiApplication using Java 18.0.1.1 on 192.168.1.9 with PID 3260 (/Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi/build/classes/java/main started by geka231 in /Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi)
+14:55:37.062 [main] INFO  r.a.b.BookShopApiApplication - No active profile set, falling back to 1 default profile: "default"
+14:55:37.349 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+14:55:37.355 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+14:55:37.356 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+14:55:37.356 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+14:55:37.408 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+14:55:37.408 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 329 ms
+14:55:37.448 [main] INFO  r.a.b.controller.MessageController - Info Message Logged !!!
+14:55:37.558 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+14:55:37.580 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+14:55:37.587 [main] INFO  r.a.b.BookShopApiApplication - Started BookShopApiApplication in 0.628 seconds (JVM running for 0.859)
+14:55:43.660 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:55:43.661 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+14:55:43.661 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+14:55:43.672 [http-nio-8080-exec-1] INFO  r.a.b.controller.MessageController - Default Page
+14:55:51.649 [http-nio-8080-exec-2] INFO  r.a.b.controller.MessageController - Account Page
+14:56:12.432 [main] INFO  r.a.b.BookShopApiApplication - Starting BookShopApiApplication using Java 18.0.1.1 on 192.168.1.9 with PID 3268 (/Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi/build/classes/java/main started by geka231 in /Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi)
+14:56:12.433 [main] INFO  r.a.b.BookShopApiApplication - No active profile set, falling back to 1 default profile: "default"
+14:56:12.775 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+14:56:12.778 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+14:56:12.778 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+14:56:12.778 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+14:56:12.814 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+14:56:12.814 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 360 ms
+14:56:12.844 [main] INFO  r.a.b.controller.MessageController - Info Message Logged !!!
+14:56:12.945 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+14:56:12.952 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+14:56:12.957 [main] INFO  r.a.b.BookShopApiApplication - Started BookShopApiApplication in 0.633 seconds (JVM running for 0.946)
+14:56:15.645 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+14:56:15.645 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+14:56:15.645 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+14:56:15.656 [http-nio-8080-exec-1] INFO  r.a.b.controller.MessageController - Account Page
+14:56:34.670 [http-nio-8080-exec-2] INFO  r.a.b.controller.MessageController - Account Page
+15:58:16.992 [main] INFO  r.a.b.BookShopApiApplication - Starting BookShopApiApplication using Java 18.0.1.1 on 192.168.1.9 with PID 3455 (/Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi/build/classes/java/main started by geka231 in /Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi)
+15:58:16.993 [main] INFO  r.a.b.BookShopApiApplication - No active profile set, falling back to 1 default profile: "default"
+15:58:17.302 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+15:58:17.310 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+15:58:17.310 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:58:17.310 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+15:58:17.351 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:58:17.351 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 342 ms
+15:58:17.383 [main] INFO  r.a.b.controller.MessageController - Message Controller start
+15:58:17.481 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+15:58:17.489 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+15:58:17.495 [main] INFO  r.a.b.BookShopApiApplication - Started BookShopApiApplication in 0.634 seconds (JVM running for 0.87)
+15:58:23.858 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:58:23.858 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:58:23.859 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+15:58:23.896 [http-nio-8080-exec-1] INFO  r.a.b.controller.MessageController - market/deal
+15:58:23.896 [http-nio-8080-exec-1] ERROR r.a.b.controller.MessageController - Not enough money/books or incorrect data
+15:58:31.947 [http-nio-8080-exec-2] INFO  r.a.b.controller.MessageController - market/deal
+15:58:31.950 [http-nio-8080-exec-2] INFO  r.a.b.controller.MessageController - User bought the bookФилософия Java in quantities1
+15:59:10.488 [http-nio-8080-exec-4] INFO  r.a.b.controller.MessageController - market/deal
+15:59:10.489 [http-nio-8080-exec-4] INFO  r.a.b.controller.MessageController - User bought the bookФилософия Java in quantities1
+15:59:18.646 [main] INFO  r.a.b.BookShopApiApplication - Starting BookShopApiApplication using Java 18.0.1.1 on 192.168.1.9 with PID 3469 (/Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi/build/classes/java/main started by geka231 in /Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi)
+15:59:18.647 [main] INFO  r.a.b.BookShopApiApplication - No active profile set, falling back to 1 default profile: "default"
+15:59:18.922 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+15:59:18.927 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+15:59:18.928 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:59:18.928 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+15:59:18.971 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:59:18.971 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 308 ms
+15:59:18.999 [main] INFO  r.a.b.controller.MessageController - Message Controller start
+15:59:19.087 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+15:59:19.093 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+15:59:19.097 [main] INFO  r.a.b.BookShopApiApplication - Started BookShopApiApplication in 0.548 seconds (JVM running for 0.753)
+15:59:21.156 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:59:21.157 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:59:21.157 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+15:59:21.194 [http-nio-8080-exec-1] INFO  r.a.b.controller.MessageController - market/deal
+15:59:21.194 [http-nio-8080-exec-1] INFO  r.a.b.controller.MessageController - User bought the bookФилософия Java in quantities1
+15:59:44.248 [main] INFO  r.a.b.BookShopApiApplication - Starting BookShopApiApplication using Java 18.0.1.1 on 192.168.1.9 with PID 3473 (/Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi/build/classes/java/main started by geka231 in /Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi)
+15:59:44.248 [main] INFO  r.a.b.BookShopApiApplication - No active profile set, falling back to 1 default profile: "default"
+15:59:44.526 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+15:59:44.532 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+15:59:44.532 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+15:59:44.532 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+15:59:44.568 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:59:44.568 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 304 ms
+15:59:44.593 [main] INFO  r.a.b.controller.MessageController - Message Controller start
+15:59:44.686 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+15:59:44.692 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+15:59:44.696 [main] INFO  r.a.b.BookShopApiApplication - Started BookShopApiApplication in 0.549 seconds (JVM running for 0.756)
+15:59:47.829 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:59:47.829 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+15:59:47.830 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+15:59:47.868 [http-nio-8080-exec-1] INFO  r.a.b.controller.MessageController - market/deal
+15:59:47.869 [http-nio-8080-exec-1] INFO  r.a.b.controller.MessageController - User bought the bookФилософия Java in quantities1
+16:00:20.887 [main] INFO  r.a.b.BookShopApiApplication - Starting BookShopApiApplication using Java 18.0.1.1 on 192.168.1.9 with PID 3481 (/Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi/build/classes/java/main started by geka231 in /Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi)
+16:00:20.888 [main] INFO  r.a.b.BookShopApiApplication - No active profile set, falling back to 1 default profile: "default"
+16:00:21.171 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+16:00:21.177 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+16:00:21.177 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:00:21.177 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+16:00:21.252 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:00:21.252 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 348 ms
+16:00:21.285 [main] INFO  r.a.b.controller.MessageController - Message Controller start
+16:00:21.388 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+16:00:21.395 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+16:00:21.400 [main] INFO  r.a.b.BookShopApiApplication - Started BookShopApiApplication in 0.61 seconds (JVM running for 0.816)
+16:00:25.154 [main] INFO  r.a.b.BookShopApiApplication - Starting BookShopApiApplication using Java 18.0.1.1 on 192.168.1.9 with PID 3484 (/Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi/build/classes/java/main started by geka231 in /Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi)
+16:00:25.155 [main] INFO  r.a.b.BookShopApiApplication - No active profile set, falling back to 1 default profile: "default"
+16:00:25.434 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+16:00:25.441 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+16:00:25.441 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:00:25.441 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+16:00:25.477 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:00:25.477 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 307 ms
+16:00:25.501 [main] INFO  r.a.b.controller.MessageController - Message Controller start
+16:00:25.601 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+16:00:25.607 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+16:00:25.611 [main] INFO  r.a.b.BookShopApiApplication - Started BookShopApiApplication in 0.553 seconds (JVM running for 0.772)
+16:00:28.918 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:00:28.918 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+16:00:28.919 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+16:00:28.955 [http-nio-8080-exec-1] INFO  r.a.b.controller.MessageController - market/deal
+16:00:28.956 [http-nio-8080-exec-1] INFO  r.a.b.controller.MessageController - User bought the bookФилософия Java in quantities1
+16:00:50.563 [main] INFO  r.a.b.BookShopApiApplication - Starting BookShopApiApplication using Java 18.0.1.1 on 192.168.1.9 with PID 3487 (/Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi/build/classes/java/main started by geka231 in /Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi)
+16:00:50.564 [main] INFO  r.a.b.BookShopApiApplication - No active profile set, falling back to 1 default profile: "default"
+16:00:50.835 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+16:00:50.841 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+16:00:50.841 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:00:50.841 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+16:00:50.881 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:00:50.881 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 298 ms
+16:00:50.914 [main] INFO  r.a.b.controller.MessageController - Message Controller start
+16:00:51.011 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+16:00:51.018 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+16:00:51.022 [main] INFO  r.a.b.BookShopApiApplication - Started BookShopApiApplication in 0.555 seconds (JVM running for 0.758)
+16:00:53.093 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:00:53.093 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+16:00:53.093 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+16:00:53.120 [http-nio-8080-exec-1] INFO  r.a.b.controller.MessageController - market/deal
+16:00:53.120 [http-nio-8080-exec-1] INFO  r.a.b.controller.MessageController - User bought the bookФилософия Java in quantities1
+16:01:27.776 [main] INFO  r.a.b.BookShopApiApplication - Starting BookShopApiApplication using Java 18.0.1.1 on 192.168.1.9 with PID 3490 (/Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi/build/classes/java/main started by geka231 in /Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi)
+16:01:27.777 [main] INFO  r.a.b.BookShopApiApplication - No active profile set, falling back to 1 default profile: "default"
+16:01:28.073 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+16:01:28.083 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+16:01:28.083 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:01:28.083 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+16:01:28.121 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:01:28.121 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 327 ms
+16:01:28.147 [main] INFO  r.a.b.controller.MessageController - Message Controller start
+16:01:28.264 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+16:01:28.271 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+16:01:28.277 [main] INFO  r.a.b.BookShopApiApplication - Started BookShopApiApplication in 0.602 seconds (JVM running for 0.812)
+16:01:30.498 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:01:30.498 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+16:01:30.499 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+16:01:30.534 [http-nio-8080-exec-1] INFO  r.a.b.controller.MessageController - market/deal
+16:01:30.535 [http-nio-8080-exec-1] INFO  r.a.b.controller.MessageController - User bought the first book; (Философия Java) in quantities; (1)
+16:33:14.412 [main] INFO  r.a.b.BookShopApiApplication - Starting BookShopApiApplication using Java 18.0.1.1 on 192.168.1.9 with PID 3618 (/Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi/build/classes/java/main started by geka231 in /Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi)
+16:33:14.413 [main] INFO  r.a.b.BookShopApiApplication - No active profile set, falling back to 1 default profile: "default"
+16:33:14.732 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+16:33:14.739 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+16:33:14.739 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:33:14.739 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+16:33:14.776 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:33:14.776 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 347 ms
+16:33:14.796 [main] INFO  r.a.b.controller.ParserJsonFile - doParseJson
+16:33:14.806 [main] INFO  r.a.b.controller.MessageController - Message Controller start
+16:33:14.918 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+16:33:14.926 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+16:33:14.931 [main] INFO  r.a.b.BookShopApiApplication - Started BookShopApiApplication in 0.619 seconds (JVM running for 0.844)
+16:44:35.095 [http-nio-8080-exec-1] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException: Cannot invoke "ru.apiBook.bookshopapi.entity.Books.getPrice()" because the return value of "ru.apiBook.bookshopapi.entity.Root.getBookByIdRoot(int)" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "ru.apiBook.bookshopapi.entity.Books.getPrice()" because the return value of "ru.apiBook.bookshopapi.entity.Root.getBookByIdRoot(int)" is null
+	at ru.apiBook.bookshopapi.controller.MessageController.marketDeal(MessageController.java:110)
+	at ru.apiBook.bookshopapi.controller.MessageController.messageMarketDeal(MessageController.java:62)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+16:45:01.763 [main] INFO  r.a.b.BookShopApiApplication - Starting BookShopApiApplication using Java 18.0.1.1 on 192.168.1.9 with PID 3677 (/Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi/build/classes/java/main started by geka231 in /Users/geka231/Desktop/Основной проект по вк/bookShopApiJava-2/bookShopApi)
+16:45:01.764 [main] INFO  r.a.b.BookShopApiApplication - No active profile set, falling back to 1 default profile: "default"
+16:45:02.031 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+16:45:02.037 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+16:45:02.037 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:45:02.037 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+16:45:02.067 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:45:02.068 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 287 ms
+16:45:02.092 [main] INFO  r.a.b.controller.MessageController - Message Controller start
+16:45:02.202 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+16:45:02.211 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+16:45:02.215 [main] INFO  r.a.b.BookShopApiApplication - Started BookShopApiApplication in 0.549 seconds (JVM running for 0.751)
+16:45:10.084 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:45:10.084 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+16:45:10.085 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+16:45:17.993 [http-nio-8080-exec-3] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException: Cannot invoke "ru.apiBook.bookshopapi.entity.Books.getPrice()" because the return value of "ru.apiBook.bookshopapi.entity.Root.getBookByIdRoot(int)" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "ru.apiBook.bookshopapi.entity.Books.getPrice()" because the return value of "ru.apiBook.bookshopapi.entity.Root.getBookByIdRoot(int)" is null
+	at ru.apiBook.bookshopapi.controller.MessageController.marketDeal(MessageController.java:110)
+	at ru.apiBook.bookshopapi.controller.MessageController.messageMarketDeal(MessageController.java:62)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+16:45:27.899 [http-nio-8080-exec-4] ERROR r.a.b.controller.MessageController - Not enough money/books or incorrect data
