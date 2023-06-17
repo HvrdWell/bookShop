@@ -1,6 +1,6 @@
 # BookShop backend
 
-Complete demo project using spring-boot-starter-web, junit, slf4j & logback.
+Complete demo project for yandex using spring-boot-starter-web, junit, slf4j & logback.
 
 ## Environment variables:
 
